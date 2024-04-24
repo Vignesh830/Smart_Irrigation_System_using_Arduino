@@ -5,6 +5,7 @@ By gauging soil moisture levels, this irrigation system intelligently determines
 
 How does smart irrigation work?
 We are using two soil moisture sensors that can sense the moisture content of the soil and send the output data to the Arduino. Place the soil moisture sensors in the soil. If the soil is dry that means the plants need some water so the sensor sends the signals to the Arduino. The Arduino sends the signals to the relay module and the water pump is turned on for some time. You can change the time by modifying the code. If all the water from the water pump will stay in a specific position/place then there is a chance that crops may destroy. To overcome this problem we are using a servo motor that can rotate the pipe from one position to other in a loop.
+
 Smart irrigation system Components required:-
 1.Arduino Uno
 2.Servo motor

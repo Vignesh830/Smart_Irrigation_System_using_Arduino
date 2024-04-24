@@ -16,6 +16,7 @@ Smart irrigation system Components required:-
 7.Breadboard
 
 Circuit Diagram for smart irrigation system:-
-https://hackster.imgix.net/uploads/attachments/1346939/Irrigation-1024x619.jpg?auto=compress%2Cformat&w=740&h=555&fit=max![image](https://github.com/Vignesh830/Smart_Irrigation_System_using_Arduino/assets/159744719/305c9b4b-25c7-40fa-a593-f1b9c46d254b)
+![Image](https://github.com/Vignesh830/Smart_Irrigation_System_using_Arduino/assets/159744719/7fe8c82f-5146-494c-b599-f6c13d006a9f)
+
 This is the circuit diagram for this project. Make the connections according to this diagram.
 
